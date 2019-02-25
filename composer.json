@@ -1,0 +1,18 @@
+{
+	"name":"fernando/query-builder",
+	"type":"library",
+	"authors":[
+		{
+			"name":"Fernando Rodrigues",
+			"email":"fernando1587@gmail.com"
+		}
+	],
+	"require":{
+		"phpunit/phpunit": "^6.5"
+	},
+	"autoload":{
+		"psr-4":{
+			"QueryBuilder\\":"src"
+		}
+	}
+}

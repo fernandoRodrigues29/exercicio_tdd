@@ -1,0 +1,21 @@
+dicas
+composer init
+composer require phpunit/phpunit
+composer dump-autoload
+---etapa red ---
+criar os teste antes de usar,como o sistema sera usado
+---etapa verde ---
+cria um teste muito simples
+criar retornos
+--criar codigo de verdade--
+
+pasta 
+etapa red fazer errar
+    D:\aula_php\tdd\tests\Mysql>phpunit SelectTest
+etapa verde, fazer funcionar da forma mais simples possivel
+para rodar os testes entre no diretorio
+     .\vendor\bin\phpunit
+etapa refactore
+teste unitarios e integração
+
+    
